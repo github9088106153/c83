@@ -1,0 +1,36 @@
+.body_background {
+    background-image: url("https://dm0qx8t0i9gc9.cloudfront.net/watermarks/image/rDtN98Qoishumwih/abstract-educational-background_mkdLCm_SB_PM.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  h1{
+    color: rgba(189, 16, 224, 1);
+  }
+  body{
+    cursor: pointer;
+  }
+  
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  label{
+    background-color: white;
+    
+  }
+  
